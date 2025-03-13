@@ -18,6 +18,7 @@ I specialize in creating responsive and dynamic web applications. Here’s a gli
 - **Back-End**: Node.js, Express, Python, Django, Nest.js, Laravel, .NET
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Git, Docker, AWS, Jira
+- **Blockchain**:solana, Ethereum, solidity
 
 ---
 

@@ -14,7 +14,7 @@ From my early days of learning HTML and CSS to mastering full-stack development,
 
 I specialize in creating responsive and dynamic web applications. Here’s a glimpse of my skill set:
 
-- **Front-End**: HTML, CSS, JavaScript, React, Next.js, Vue.js, Angular
+- **Front-End**: HTML, CSS, JavaScript, React, Next.js, Vue.js, Angular,Nuxt.js
 - **Back-End**: Node.js, Express, Python, Django, Nest.js, Laravel, .NET
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **DevOps**: Git, Docker, AWS, Jira

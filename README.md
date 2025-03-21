@@ -3,6 +3,8 @@
 Hi! I'm [Your Name], a developer who loves to explore the endless possibilities of technology. My journey in coding began [X years ago/mention a specific moment], and since then, I've been passionate about building impactful applications.
 
 ---
+---
+---
 
 ## 🌍 My Journey
 
